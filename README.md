@@ -10,3 +10,7 @@ Some of these icons are based on [Material Design icons](https://material.io/res
 # Color palette :
 
 ![hello](https://cdn.discordapp.com/attachments/775338764159287316/779471259234467840/Group_73.png "hello there")
+
+Copy and paste:
+
+#E20000 #F05D05 #FFD800 #01CD06 #0DC5A0 #00A2E8 #6A21FF #E764EF #A84D32
