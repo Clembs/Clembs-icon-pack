@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1041" height="1041" viewBox="0 0 1041 1041">
+  <g id="suitcase" transform="translate(1510 250)">
+    <rect id="frame" width="1041" height="1041" transform="translate(-1510 -250)" fill="#fff" opacity="0"/>
+    <path id="part_2" data-name="part 2" d="M232.045,45.815V-178.792H587.836V45.815Z" transform="translate(-1383.669 13.025)"/>
+    <path id="part_1" data-name="part 1" d="M899.972,226.347h-149.5V102.674A99.324,99.324,0,0,0,650.813,3H351.822a99.324,99.324,0,0,0-99.664,99.674V226.347h-149.5A99.324,99.324,0,0,0,3,326.021V850.226A99.324,99.324,0,0,0,102.664,949.9H899.972a99.324,99.324,0,0,0,99.664-99.674V326.021A99.324,99.324,0,0,0,899.972,226.347ZM351.822,102.674H650.813V226.347H351.822Z" transform="translate(-1490.476 -205.578)" fill="#ececec" stroke="#000" stroke-width="41"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1041" height="1041" viewBox="0 0 1041 1041">
+  <g id="heart" transform="translate(-6252 13212)">
+    <rect id="frame" width="1041" height="1041" transform="translate(6252 -13212)" fill="#fff" opacity="0"/>
+    <path id="heart-2" data-name="heart" d="M897.335,61.706C790.969-28.938,632.78-12.633,535.149,88.1l-38.237,39.4L458.675,88.1C361.238-12.633,202.855-28.938,96.489,61.706-25.4,165.742-31.809,352.464,77.274,465.234L452.852,853.041a60.85,60.85,0,0,0,87.926,0L916.356,465.234c109.277-112.77,102.872-299.492-19.022-403.528Z" transform="translate(6275.255 -13128.805)" fill="#e20000" stroke="#000" stroke-width="41"/>
+  </g>
+</svg>
